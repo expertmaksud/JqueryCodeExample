@@ -1,4 +1,4 @@
-This repo contain Jquery code i had wrote for one of my project. Due to NDA just publishing partial code not full project.
+This repo contain Jquery code i had wrote for one of my project. 
 
 In this application i used
 <ul>
